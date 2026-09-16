@@ -3,6 +3,7 @@ Atividade em Dupla: Automação Cypress com GitHub Actions
 
 Integrantes: 
 Gabriel Felipe Floriano
+
 Mauro Eduardo Gusmão Andreoli
 
 Como executar localmente:
